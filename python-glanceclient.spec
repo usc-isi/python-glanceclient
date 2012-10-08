@@ -8,7 +8,8 @@
 #%global os_release essex
 %global os_release folsom 
 
-Name:             python-glanceclient-%{os_release}
+#Name:             python-glanceclient-%{os_release}
+Name:             python-glanceclient
 Version:          2012.1
 #Release:	b3352
 Release: 	folsom	
