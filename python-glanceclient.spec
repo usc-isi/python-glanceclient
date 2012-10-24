@@ -35,7 +35,7 @@ Requires:         python-httplib2
 Requires:         python-prettytable
 Requires:         python-argparse
 
-#Conflicts:        python-glanceclient
+Conflicts:        python-glanceclient
 
 %description
 This is a client for the OpenStack Glance API. There is a Python API (the
